@@ -1,0 +1,21 @@
+{
+    "name": "ak868308/yii2-anno",
+    "description": "Better step-by-step guides for powerful web apps",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","siteintro"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Khalid",
+            "email": "ak868308@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "ak868308\\anno\\": ""
+        }
+    }
+}
