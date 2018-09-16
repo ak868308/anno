@@ -131,6 +131,27 @@
 .anno.anno-hidden {
   opacity: 0;
 }
+.anno.anno-width-90per {
+  width: 90%;
+}
+.anno.anno-width-100per {
+  width: 100%;
+}
+.anno.anno-width-50per {
+  width: 50%;
+}
+.anno.anno-width-650 {
+  width: 650px;
+}
+.anno.anno-width-600 {
+  width: 600px;
+}
+.anno.anno-width-550 {
+  width: 550px;
+}
+.anno.anno-width-500 {
+  width: 500px;
+}
 .anno.anno-width-400 {
   width: 400px;
 }

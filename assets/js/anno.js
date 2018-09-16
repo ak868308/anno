@@ -666,7 +666,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	  }
 
 	  AnnoButton.prototype.buttonElem = function(anno) {
-	    return $("<button class='anno-btn'></button>").html(this.textFn(anno)).addClass(this.className).click((function(_this) {
+	    return $("<button class='anno-btn' type='button'></button>").html(this.textFn(anno)).addClass(this.className).click((function(_this) {
 	      return function(evt) {
 	        return _this.click.call(anno, anno, evt);
 	      };

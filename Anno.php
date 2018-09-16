@@ -78,18 +78,6 @@ class Anno extends \yii\base\Widget {
     public $oneTime = FALSE;
 
     /**
-     * Plugin Event: Trigger on popup shows
-     * @var type 
-     */
-    public $onShow;
-
-    /**
-     * Plugin Event: Trigger on popup hides
-     * @var type 
-     */
-    public $onHide;
-
-    /**
      * An HTML options for widget button
      * @var type 
      */
